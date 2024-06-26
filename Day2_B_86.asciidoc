@@ -1,0 +1,111 @@
++*In[3]:*+
+[source, ipython3]
+----
+firstname1 = "Shaikh"
+print (firstname1)
+
+----
+
+
++*Out[3]:*+
+----
+Shaikh
+----
+
+
++*In[7]:*+
+[source, ipython3]
+----
+Name = "Mohammed"
+print (Name)
+----
+
+
++*Out[7]:*+
+----
+Mohammed
+----
+
+
++*In[8]:*+
+[source, ipython3]
+----
+name = 'raj' # single quote
+print (name)
+----
+
+
++*Out[8]:*+
+----
+raj
+----
+
+
++*In[12]:*+
+[source, ipython3]
+----
+name2 = "rajesh" # double quote
+print (name2);
+
+----
+
+
++*Out[12]:*+
+----
+rajesh
+----
+
+
++*In[13]:*+
+[source, ipython3]
+----
+type (name2)
+----
+
+
++*Out[13]:*+
+----str----
+
+
++*In[14]:*+
+[source, ipython3]
+----
+type(name)
+----
+
+
++*Out[14]:*+
+----str----
+
+
++*In[15]:*+
+[source, ipython3]
+----
+print(name.title())
+----
+
+
++*Out[15]:*+
+----
+Raj
+----
+
+
++*In[16]:*+
+[source, ipython3]
+----
+print(name.upper())
+----
+
+
++*Out[16]:*+
+----
+RAJ
+----
+
+
++*In[ ]:*+
+[source, ipython3]
+----
+
+----
